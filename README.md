@@ -1,4 +1,4 @@
-Hey everyone, I'm Doğuş. I'm a software developer from Turkey. I'm Electronics and Communication Student at Istanbul Technical University. I'm currently working in a robotics company and voluntarily involved in @iturover Software Team.
+Hey everyone, I'm Doğuş. I'm a software developer from Turkey. I'm Electronics and Communication Student at Istanbul Technical University. I'm currently working in a robotics company and voluntarily involved in @iturover Electroware Team.
 
 **Summary about me:**
 
