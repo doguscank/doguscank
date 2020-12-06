@@ -3,7 +3,7 @@ Hey everyone, I'm Doğuş. I'm a software developer from Turkey. I'm Electronics
 **Summary about me:**
 
 - 🔭 I’m currently working on autonomous navigation algorithms of robots.
-- 🌱 I’m currently learning basics of the Kalman Filter.
+- 🌱 I’m currently studying Semantic Segmentation.
 - 📫 How to reach me: You can reach me via email: k.doguscan@gmail.com
 
 **📫 Where to find me:** 
