@@ -13,4 +13,4 @@ Hey everyone, I'm Doğuş. I'm a software developer from Turkey. I'm Electronics
 
 **💼 Currently working as:** Software developer in <a href="https://delivers.ai" target="_blank"><b>delivers.ai</b></a> and also, Avionics Team Member <a href="https://www.instagram.com/itutvcrocket/" target="_blank"><b>ITU TVC Rocket Team</b></a>
 
-![Melih's github stats](https://github-readme-stats.vercel.app/api?username=doguscank&show_icons=true&line_height=30)
+![Doğuş's github stats](https://github-readme-stats.vercel.app/api?username=doguscank&show_icons=true&line_height=30)
