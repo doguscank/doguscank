@@ -1,4 +1,4 @@
-Hey everyone, I'm Doğuş. I'm a software developer from Turkey. I'm Electronics and Communication Eng. & Astronautical Eng. Student at Istanbul Technical University. I'm currently working in a robotics company and voluntarily involved in @ITU-TVC-ROCKET Avionics Sub-Team.
+Hey everyone, I'm Doğuş. I'm a software developer from Turkey. I'm Electronics and Communication Eng. & Astronautical Eng. Student at Istanbul Technical University. I'm currently working in a robotics company.
 
 **Summary about me:**
 
