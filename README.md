@@ -12,5 +12,3 @@ Hey everyone, I'm Doğuş. I'm a software developer from Turkey. I'm Electronics
 [![Gmail Badge](https://img.shields.io/badge/-k.doguscan@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:k.doguscan@gmail.com)](mailto:k.doguscan@gmail.com)
 
 **💼 Currently working as:** Software developer in <a href="https://delivers.ai" target="_blank"><b>delivers.ai</b></a>.
-
-![Doğuş's github stats](https://github-readme-stats.vercel.app/api?username=doguscank&show_icons=true&line_height=30)
