@@ -1,4 +1,4 @@
-Hey everyone, I'm Doğuş. I'm a software developer from Turkey. I graduated from Istanbul Technical University with a BS degree in Electronics & Communication Engineering. I'm currently working in a robotics company and pursuing a MS in Computer Engineering at Istanbul Technical University.
+Hey everyone, I'm Doğuş. I'm an AI Engineer from Turkey. I graduated from Istanbul Technical University with a BS degree in Electronics & Communication Engineering. I'm currently working in a fintech company and pursuing a MS in Computer Engineering at Istanbul Technical University.
 
 **Summary about me:**
 
@@ -11,4 +11,4 @@ Hey everyone, I'm Doğuş. I'm a software developer from Turkey. I graduated fro
 [![Linkedin Badge](https://img.shields.io/badge/-doguscankorkmaz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/doguscankorkmaz)](https://www.linkedin.com/in/doguscankorkmaz/) 
 [![Gmail Badge](https://img.shields.io/badge/-k.doguscan@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:k.doguscan@gmail.com)](mailto:k.doguscan@gmail.com)
 
-**💼 Currently working as:** Perception & Vision Engineering at <a href="https://delivers.ai" target="_blank"><b>delivers.ai</b></a>.
+**💼 Currently working as:** AI Engineer at <a href="[https://delivers.ai](https://gonder-al.com)" target="_blank"><b>GönderAL Payment Systems</b></a>.
